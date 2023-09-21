@@ -1,0 +1,11 @@
+Write your code in poc.py which I have created.
+
+All files are in folder RAW_DIR.
+
+Task:
+1. Create two directories which are "good_data" and "bad_data".
+2. Files that follow "poc1.csv"  or similar name structure and if that file is not empty then it should move to "good_data" folder and other files 
+    should move "bad_data" folder.
+3. Before moving correct file to "good_data" folder, rename the file by adding todays date at the end of the file
+    Example: "poc3_day_month_year.csv".
+
